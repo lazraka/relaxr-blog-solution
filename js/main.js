@@ -3,6 +3,9 @@ $(".link-bottom").on("click", function(){
 	$(".link-bottom").text("No sign Ups");
 
 });
+
+$('.readmore').click(function() { return false; });
+$('.learnmore').click(function() { return false; });
 var slideOnRead = false;
 
 $(".readmore").on("click", function(){
