@@ -225,6 +225,8 @@ footer p {
 /* ADDITIONAL STYLES
 /*******************************************/
 
-
+.extra-read, .extra-learn{
+  display: none;
+}
 
 
